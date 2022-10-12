@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    height: 100%;
+}
+.MainWindow{
+    text-align: center;
+    background-color: #7b7b7b;
+    min-height: 100%;
+}
+p{
+    position: center;
+}
